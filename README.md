@@ -1,4 +1,4 @@
-[![GitHub forks](https://badgen.net/github/forks/thisouza/Strapdown.js/)](https://github.com/thisouzadev/lista-de-tarefas)
+[![GitHub forks](https://badgen.net/github/forks/thisouzadev/lista-de-tarefas/)](https://github.com/thisouzadev/lista-de-tarefas)
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
