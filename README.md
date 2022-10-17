@@ -1,4 +1,4 @@
-[![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)]([https://GitHub.com/Naereen/StrapDown.js/network/](https://github.com/thisouzadev/lista-de-tarefas))
+[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/thisouzadev/lista-de-tarefas)
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
