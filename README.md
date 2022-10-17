@@ -1,7 +1,7 @@
 [![GitHub forks](https://badgen.net/github/forks/thisouzadev/lista-de-tarefas/)](https://github.com/thisouzadev/lista-de-tarefas/)
 [![GitHub stars](https://img.shields.io/github/stars/thisouzadev/lista-de-tarefas?style=social&label=Star&maxAge=2592000)](https://github.com/thisouzadev/lista-de-tarefas/)
 [![GitHub issues](https://badgen.net/github/issues/thisouzadev/lista-de-tarefas/)](https://github.com/thisouzadev/lista-de-tarefas/)
-
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 <br />
 <p align="center">
   <a href="https://www.devchallenge.com.br/">
