@@ -1,5 +1,43 @@
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
 <br />
 <p align="center">
+  <a href="https://www.devchallenge.com.br/">
+    <img
+      src="https://trello-attachments.s3.amazonaws.com/590fa896d2d25e50583de620/500x500/0bdcc819ea145cb0167619c6d00f2174/D.png"
+      alt="DevChallenge logo, ou seja, quadrado amarelo com D maiusculo na cor preta"
+      width="100"
+      height="100"
+    />
+  </a>
+</p>
+
+<h3 align="center">DevChallenge</h3>
+
+<p align="center">
+  Site para desenvolvedores melhorarem suas habilidades através de desafios de front-end, back-end e mobile!
+  <br />
+  <br />
+  A website for developers to improve their skills by doing front-end and back-end challenges
+  <br />
+  <br />
+  <a href="https://www.devchallenge.com.br/">DevChallenge</a>
+</p>
+
+## Índice
+
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Como começar](#como-começar)
+- [Requisitos](#requisitos)
+- [Compartilhe!](#compartilhe)
+<br />
+<p align="center">
+
+## Sobre o Projeto
+
+O [DevChallenge](https://www.devchallenge.com.br/) é um projeto que visa contribuir com a evolução de desenvolvedores, disponibilizando desafios para que possam praticar, melhorar suas skills e criarem seus portfólios :)
 
 ![exemplo de uma todo list](./todo-list-example.gif)
 
@@ -9,7 +47,7 @@
     Crie uma página para listar suas tarefas
        <br />
     <br />
-    <a href="https://github.com/thisouzadev/lista-de-tarefas">Desafio</a>
+    <a href="git@github.com:thisouzadev/lista-de-tarefas.git">Desafio</a>
     ·
     <a href="https://www.linkedin.com/in/thisouzadev/">Contato</a>
   </p>
@@ -23,13 +61,13 @@
 
 Seu desafio será construir uma página para listar suas tarefas <strong>todo list</strong>. <br><br>
 
-# Techs:
+# Techs
 
 HTML<br>
 CSS<br>
 Framework ou linguagem que preferir
 
-# Como começar:
+# Como começar
 
 1 - Faça um fork deste repositório com o código inicial.Como fazer um fork [link](https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt)<br>
 2 - Leia as instruções no readme.md<br>
@@ -37,7 +75,7 @@ Framework ou linguagem que preferir
 4 - Compartilhe seu resultado com a comunidade :)<br>
 5 - rodar os testes "npm run cypress:open"
 
-# Requisitos:
+# Requisitos
 
 ### 1 - Adicione à sua lista o título "Minha Lista de Tarefas" em uma tag <header>
 
@@ -167,9 +205,10 @@ Framework ou linguagem que preferir
 
 ---
 
-# Compartilhe!
+# Compartilhe
 
 - Faça um print, gif ou vídeo e compartilhe o resultado no seu Linkedin<br>
 - Você também pode adicionar uma "issue" neste repositório mostrando seu resultado final!<br>
 
 Desafio criado por <a href="https://github.com/thisouzadev">Thiago Souza</a> :)
+
