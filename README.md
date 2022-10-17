@@ -1,6 +1,6 @@
-[![GitHub forks](https://badgen.net/github/forks/thisouzadev/lista-de-tarefas/)](https://github.com/thisouzadev/lista-de-tarefas)
+[![GitHub forks](https://badgen.net/github/forks/thisouzadev/lista-de-tarefas/)](https://github.com/thisouzadev/lista-de-tarefas/)
 [![GitHub stars](https://img.shields.io/github/stars/thisouzadev/lista-de-tarefas?style=social&label=Star&maxAge=2592000)](https://github.com/thisouzadev/lista-de-tarefas/)
-[![Issues][issues-shield]][issues-url]
+[![GitHub issues](https://badgen.net/github/issues/thisouzadev/lista-de-tarefas/)](https://github.com/thisouzadev/lista-de-tarefas/)
 
 <br />
 <p align="center">
