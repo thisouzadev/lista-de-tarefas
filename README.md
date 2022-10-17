@@ -1,5 +1,5 @@
 [![GitHub forks](https://badgen.net/github/forks/thisouzadev/lista-de-tarefas/)](https://github.com/thisouzadev/lista-de-tarefas)
-[![Stargazers][stars-shield]][stars-url]
+[![GitHub stars](https://img.shields.io/github/stars/thisouzadev/lista-de-tarefas?style=social&label=Star&maxAge=2592000)](https://github.com/thisouzadev/lista-de-tarefas/)
 [![Issues][issues-shield]][issues-url]
 
 <br />
