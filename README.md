@@ -47,7 +47,7 @@ O [DevChallenge](https://www.devchallenge.com.br/) é um projeto que visa contri
     Crie uma página para listar suas tarefas
        <br />
     <br />
-    <a href="git@github.com:thisouzadev/lista-de-tarefas.git">Desafio</a>
+    <a href="https://github.com/thisouzadev/lista-de-tarefas">Desafio</a>
     ·
     <a href="https://www.linkedin.com/in/thisouzadev/">Contato</a>
   </p>
